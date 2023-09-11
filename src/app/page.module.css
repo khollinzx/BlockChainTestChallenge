@@ -71,6 +71,9 @@
   line-height: 1.5;
   max-width: 30ch;
 }
+.label{
+  color: black;
+}
 
 .center {
   display: flex;
